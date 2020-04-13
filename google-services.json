@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10036387814",
+    "firebase_url": "https://myapp-f99a4.firebaseio.com",
+    "project_id": "myapp-f99a4",
+    "storage_bucket": "myapp-f99a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10036387814:android:8c4c5a671640f604eac027",
+        "android_client_info": {
+          "package_name": "com.djhack.panchi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10036387814-91s4splqflhn3a3o5s04urbtd1bfib2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpNWxfbiW4wgUm0bs3HCQywANwSKAZNqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10036387814-91s4splqflhn3a3o5s04urbtd1bfib2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
